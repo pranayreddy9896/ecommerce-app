@@ -79,8 +79,8 @@ cd your-repo
 - The backend can be deployed using **Vercel** or **any cloud service** that supports Node.js
 
 ## Contributing
-Feel free to fork the repository and contribute by submitting pull requests.
+You can fix the repository and contribute by submitting pull requests.
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This open-source project is available under the [MIT License](LICENSE).
 
